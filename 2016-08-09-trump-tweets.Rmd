@@ -79,7 +79,7 @@ tweets %>%
   scale_y_continuous(labels = percent_format()) +
   labs(x = "Hour of day (EST)",
        y = "% of tweets",
-       color = "")
+       color = "red")
 ```
 
 Trump on the Android does a lot more tweeting in the morning, while the campaign posts from the iPhone more in the afternoon and early evening.
