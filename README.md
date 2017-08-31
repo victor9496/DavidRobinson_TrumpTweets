@@ -3,3 +3,6 @@ Repo containing David Robinson's [Trump Tweets post](http://varianceexplained.or
 * Victor Lee -victor9496@gmail.com
 
 * John Doe - john.doe@duke.edu
+
+* Jane Doe - jane.doe@duke.edu
+
